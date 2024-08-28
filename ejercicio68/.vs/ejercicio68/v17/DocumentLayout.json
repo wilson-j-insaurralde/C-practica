@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejercicio68\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C03BFA47-CFCF-4AE1-9901-36C7512955C2}|ejercicio68\\ejercicio68.csproj|c:\\users\\wilso\\onedrive\\escritorio\\c#\\ejercicio68\\ejercicio68\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03BFA47-CFCF-4AE1-9901-36C7512955C2}|ejercicio68\\ejercicio68.csproj|solutionrelative:ejercicio68\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejercicio68\\ejercicio68\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio68\\Program.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejercicio68\\ejercicio68\\Program.cs",
+              "RelativeToolTip": "ejercicio68\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:07:28.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\bin\Debug\ejercicio80.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\bin\Debug\ejercicio80.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\bin\Debug\ejercicio80.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\obj\Debug\ejercicio80.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\obj\Debug\ejercicio80.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\obj\Debug\ejercicio80.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio80\ejercicio80\obj\Debug\ejercicio80.pdb

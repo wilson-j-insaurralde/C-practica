@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\bin\Debug\ejercicio30.exe.config
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\bin\Debug\ejercicio30.exe
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\bin\Debug\ejercicio30.pdb
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\obj\Debug\ejercicio30.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\obj\Debug\ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\obj\Debug\ejercicio30.exe
+C:\Users\wilso\source\repos\ejercicio30\ejercicio30\obj\Debug\ejercicio30.pdb

@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\bin\Debug\ejercicio62.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\bin\Debug\ejercicio62.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\bin\Debug\ejercicio62.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\obj\Debug\ejercicio62.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\obj\Debug\ejercicio62.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\obj\Debug\ejercicio62.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio62\ejercicio62\obj\Debug\ejercicio62.pdb

@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\bin\Debug\ejercicio25.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\bin\Debug\ejercicio25.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\bin\Debug\ejercicio25.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\obj\Debug\ejercicio25.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\obj\Debug\ejercicio25.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\obj\Debug\ejercicio25.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio25\ejercicio25\obj\Debug\ejercicio25.pdb

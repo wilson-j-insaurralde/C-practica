@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\bin\Debug\ejerecicio55.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\bin\Debug\ejerecicio55.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\bin\Debug\ejerecicio55.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\obj\Debug\ejerecicio55.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\obj\Debug\ejerecicio55.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\obj\Debug\ejerecicio55.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejerecicio55\ejerecicio55\obj\Debug\ejerecicio55.pdb

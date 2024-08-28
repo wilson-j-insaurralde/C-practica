@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\source\\repos\\ejercicio33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAC441C-C621-46B5-A67C-D78FA2E289F2}|ejercicio33\\ejercicio33.csproj|c:\\users\\wilso\\source\\repos\\ejercicio33\\ejercicio33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAC441C-C621-46B5-A67C-D78FA2E289F2}|ejercicio33\\ejercicio33.csproj|solutionrelative:ejercicio33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\source\\repos\\ejercicio33\\ejercicio33\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio33\\Program.cs",
+              "ToolTip": "C:\\Users\\wilso\\source\\repos\\ejercicio33\\ejercicio33\\Program.cs",
+              "RelativeToolTip": "ejercicio33\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:02:21.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\bin\Debug\ejercicio42.exe.config
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\bin\Debug\ejercicio42.exe
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\bin\Debug\ejercicio42.pdb
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\obj\Debug\ejercicio42.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\obj\Debug\ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\obj\Debug\ejercicio42.exe
+C:\Users\wilso\source\repos\ejercicio42\ejercicio42\obj\Debug\ejercicio42.pdb

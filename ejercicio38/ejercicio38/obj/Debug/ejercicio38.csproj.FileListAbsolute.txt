@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\bin\Debug\ejercicio38.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\bin\Debug\ejercicio38.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\bin\Debug\ejercicio38.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\obj\Debug\ejercicio38.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\obj\Debug\ejercicio38.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\obj\Debug\ejercicio38.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio38\ejercicio38\obj\Debug\ejercicio38.pdb

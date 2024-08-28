@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\bin\Debug\ejercicio50.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\bin\Debug\ejercicio50.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\bin\Debug\ejercicio50.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\obj\Debug\ejercicio50.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\obj\Debug\ejercicio50.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\obj\Debug\ejercicio50.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio50\ejercicio50\obj\Debug\ejercicio50.pdb

@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\bin\Debug\ejercicio87.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\bin\Debug\ejercicio87.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\bin\Debug\ejercicio87.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\obj\Debug\ejercicio87.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\obj\Debug\ejercicio87.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\obj\Debug\ejercicio87.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio87\ejercicio87\obj\Debug\ejercicio87.pdb

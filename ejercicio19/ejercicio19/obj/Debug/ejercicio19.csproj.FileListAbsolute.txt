@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.pdb

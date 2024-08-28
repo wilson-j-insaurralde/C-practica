@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\bin\Debug\ejercicio77.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\bin\Debug\ejercicio77.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\bin\Debug\ejercicio77.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\obj\Debug\ejercicio77.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\obj\Debug\ejercicio77.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\obj\Debug\ejercicio77.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio77\ejercicio77\obj\Debug\ejercicio77.pdb

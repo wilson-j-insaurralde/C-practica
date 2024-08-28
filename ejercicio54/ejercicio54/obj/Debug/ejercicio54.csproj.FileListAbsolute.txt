@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\bin\Debug\ejercicio54.exe.config
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\bin\Debug\ejercicio54.exe
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\bin\Debug\ejercicio54.pdb
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\obj\Debug\ejercicio54.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\obj\Debug\ejercicio54.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\obj\Debug\ejercicio54.exe
+C:\Users\wilso\source\repos\ejercicio54\ejercicio54\obj\Debug\ejercicio54.pdb

@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\bin\Debug\ejeercicio32.exe.config
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\bin\Debug\ejeercicio32.exe
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\bin\Debug\ejeercicio32.pdb
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\obj\Debug\ejeercicio32.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\obj\Debug\ejeercicio32.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\obj\Debug\ejeercicio32.exe
+C:\Users\wilso\source\repos\ejeercicio32\ejeercicio32\obj\Debug\ejeercicio32.pdb

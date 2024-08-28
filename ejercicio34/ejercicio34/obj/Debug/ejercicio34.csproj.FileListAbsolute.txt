@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\bin\Debug\ejercicio34.exe.config
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\bin\Debug\ejercicio34.exe
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\bin\Debug\ejercicio34.pdb
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\obj\Debug\ejercicio34.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\obj\Debug\ejercicio34.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\obj\Debug\ejercicio34.exe
+C:\Users\wilso\source\repos\ejercicio34\ejercicio34\obj\Debug\ejercicio34.pdb

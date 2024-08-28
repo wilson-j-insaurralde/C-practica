@@ -1,0 +1,7 @@
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.exe.config
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.pdb
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.exe
+C:\Users\wilso\OneDrive\Escritorio\c#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.pdb

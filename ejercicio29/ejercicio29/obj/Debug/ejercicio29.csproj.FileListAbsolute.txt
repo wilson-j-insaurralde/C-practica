@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\obj\Debug\ejercicio29.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\obj\Debug\ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\bin\Debug\ejercicio29.exe.config
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\bin\Debug\ejercicio29.exe
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\bin\Debug\ejercicio29.pdb
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\obj\Debug\ejercicio29.exe
+C:\Users\wilso\source\repos\ejercicio29\ejercicio29\obj\Debug\ejercicio29.pdb

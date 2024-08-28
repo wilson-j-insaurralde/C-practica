@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejerecicio55\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681BC5FB-5671-4443-9B84-AD00BF340EF0}|ejerecicio55\\ejerecicio55.csproj|c:\\users\\wilso\\onedrive\\escritorio\\c#\\ejerecicio55\\ejerecicio55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681BC5FB-5671-4443-9B84-AD00BF340EF0}|ejerecicio55\\ejerecicio55.csproj|solutionrelative:ejerecicio55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejerecicio55\\ejerecicio55\\Program.cs",
+              "RelativeDocumentMoniker": "ejerecicio55\\Program.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\c#\\ejerecicio55\\ejerecicio55\\Program.cs",
+              "RelativeToolTip": "ejerecicio55\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:58:59.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

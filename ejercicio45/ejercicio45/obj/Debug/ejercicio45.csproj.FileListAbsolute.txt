@@ -1,0 +1,7 @@
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\bin\Debug\ejercicio45.exe.config
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\bin\Debug\ejercicio45.exe
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\bin\Debug\ejercicio45.pdb
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\obj\Debug\ejercicio45.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\obj\Debug\ejercicio45.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\obj\Debug\ejercicio45.exe
+C:\Users\wilso\source\repos\ejercicio45\ejercicio45\obj\Debug\ejercicio45.pdb
